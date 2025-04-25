@@ -7,15 +7,15 @@
     padding:0;
 }
 body{
-    background-color:bisque;
-    color:rgb(236, 48, 117)
+    background-color:rgb(202, 225, 233);
+    color: rgb(255, 126, 173)
 }
 header{
     padding:32px;
 
-    background-color: rgb(236, 48, 117);
-    border-bottom: solid rgb(236, 48, 117);
-    border-color: solid rgb(236, 48, 117);
+    background-color:rgb(255, 126, 173);
+    border-bottom: solid rgb(255, 126, 173);
+    border-color: solid rgb(255, 126, 173);
     padding: 20px;
 }
 header {
@@ -23,7 +23,7 @@ header {
 }
 
 header div a {
-    color: rgb(250, 219, 180);
+    color: rgb(202, 225, 233);
     font-size : 20px;
     line-height: 30px;
     margin: 0 16px;
@@ -52,7 +52,7 @@ transition: color 700ms;
 }
 
 #box h1{
-    color: rgb(236, 48, 117);
+    color: rgb(255, 126, 173);
     font-size : 20px;
     line-height: 30px;
     margin: 0 16px;
@@ -60,14 +60,14 @@ transition: color 700ms;
 }
 
 #box h2{
-    color: rgb(236, 48, 117);
+    color:rgb(255, 126, 173);
     font-size : 20px;
     line-height: 30px;
     margin: 0 16px;
     text-decoration: none;
 }
  #box a{
-    color: rgb(236, 48, 117);
+    color:rgb(255, 126, 173) ;
     font-size : 20px;
     line-height: 30px;
     margin: 0 16px;
